@@ -3,7 +3,7 @@
 ## Overview
 FastPI (Fast PseudoInverse) is a novel method computing pseudoinverse for sparse feature matrices used in real-world optimization problems. 
 Based on the observation that many real-world feature matrices are sparse and highly skewed, FastPI reorders and divides the feature matrix and incrementally computes low-rank SVD from the divided componenets. 
-The details of FastPi are described in the following paper:
+The details of FastPI are described in the following paper:
 * Fast and Accurate Pseudo inverse for Real-world Sparse Matrices  
   29th International Joint Conference on Artificial Intelligence (IJCAI 2020) submitted
   
